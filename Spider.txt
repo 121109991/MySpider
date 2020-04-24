@@ -1,0 +1,5 @@
+import requests
+
+url = "http://baidu.com"
+html = request.get(url)
+print(html)
